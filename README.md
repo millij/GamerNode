@@ -7,4 +7,6 @@ Currently planned Games :
 
 1. Rock Paper Scissors
 
-Some DumbShell Games 
+Dumb charades 
+
+etc
